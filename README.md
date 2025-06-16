@@ -1,4 +1,4 @@
-# InShip-Figma-Prototype-UX-Template-
+# InShip-Figma-Prototype
 ## Interactive Prototype
 ► [Πλήρες prototype στο Figma](https://www.figma.com/design/VYqFsSSRVIxWBJjiQsI2VB/Inship?node-id=0-1&t=rrn0UTXaEdHDG55x-1)
 
